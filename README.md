@@ -223,6 +223,13 @@
                 "modifiers": {
                     "mandatory": [
                         "fn"
+                    ],
+                    "optional": [
+                        "caps_lock",
+                        "option",
+                        "command",
+                        "shift",
+                        "control"
                     ]
                 }
             },
@@ -239,6 +246,13 @@
                 "modifiers": {
                     "mandatory": [
                         "fn"
+                    ],
+                    "optional": [
+                        "caps_lock",
+                        "option",
+                        "command",
+                        "shift",
+                        "control"
                     ]
                 }
             },
@@ -255,6 +269,13 @@
                 "modifiers": {
                     "mandatory": [
                         "fn"
+                    ],
+                    "optional": [
+                        "caps_lock",
+                        "option",
+                        "command",
+                        "shift",
+                        "control"
                     ]
                 }
             },
@@ -271,6 +292,13 @@
                 "modifiers": {
                     "mandatory": [
                         "fn"
+                    ],
+                    "optional": [
+                        "caps_lock",
+                        "option",
+                        "command",
+                        "shift",
+                        "control"
                     ]
                 }
             },
@@ -287,6 +315,13 @@
                 "modifiers": {
                     "mandatory": [
                         "fn"
+                    ],
+                    "optional": [
+                        "caps_lock",
+                        "option",
+                        "command",
+                        "shift",
+                        "control"
                     ]
                 }
             },
@@ -303,6 +338,13 @@
                 "modifiers": {
                     "mandatory": [
                         "fn"
+                    ],
+                    "optional": [
+                        "caps_lock",
+                        "option",
+                        "command",
+                        "shift",
+                        "control"
                     ]
                 }
             },
@@ -319,6 +361,13 @@
                 "modifiers": {
                     "mandatory": [
                         "fn"
+                    ],
+                    "optional": [
+                        "caps_lock",
+                        "option",
+                        "command",
+                        "shift",
+                        "control"
                     ]
                 }
             },
@@ -335,6 +384,13 @@
                 "modifiers": {
                     "mandatory": [
                         "fn"
+                    ],
+                    "optional": [
+                        "caps_lock",
+                        "option",
+                        "command",
+                        "shift",
+                        "control"
                     ]
                 }
             },
@@ -351,6 +407,13 @@
                 "modifiers": {
                     "mandatory": [
                         "fn"
+                    ],
+                    "optional": [
+                        "caps_lock",
+                        "option",
+                        "command",
+                        "shift",
+                        "control"
                     ]
                 }
             },
@@ -367,6 +430,13 @@
                 "modifiers": {
                     "mandatory": [
                         "fn"
+                    ],
+                    "optional": [
+                        "caps_lock",
+                        "option",
+                        "command",
+                        "shift",
+                        "control"
                     ]
                 }
             },
@@ -383,6 +453,13 @@
                 "modifiers": {
                     "mandatory": [
                         "fn"
+                    ],
+                    "optional": [
+                        "caps_lock",
+                        "option",
+                        "command",
+                        "shift",
+                        "control"
                     ]
                 }
             },
@@ -399,6 +476,13 @@
                 "modifiers": {
                     "mandatory": [
                         "fn"
+                    ],
+                    "optional": [
+                        "caps_lock",
+                        "option",
+                        "command",
+                        "shift",
+                        "control"
                     ]
                 }
             },
