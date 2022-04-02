@@ -129,7 +129,7 @@
             ]
         },
         {
-            "description": "Change caps_lock-1...12 to F1...F12 for 68",
+            "description": "Change fn-1...12 to F1...F12 for 68",
             "manipulators": [
                 {
                     "type": "basic",
